@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormattedError")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+993f425519aa478738f8551d6e742ec2148c7677")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormattedError")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormattedError")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

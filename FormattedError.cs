@@ -6,9 +6,11 @@ namespace miniproject;
 public class FormattedError : IError
 {
   public required string UnformattedMessage { get; set; }
-  public string Message { get => GetFormattedMessage(); set {} }
-  public Dictionary<string, Object> Metadata { get; set; } = [];
-  public List<IError>? Reasons { get; set; }
+  public Dictionary<string, object> Metadata { get; set; } = [];
+  public List<IError>? Reasons { get; set; } = new();
+  public string Message => _cachedMessage ??= GetFormattedMessage();
+
+  private string? _cachedMessage;
 
   private string GetFormattedMessage()
   {

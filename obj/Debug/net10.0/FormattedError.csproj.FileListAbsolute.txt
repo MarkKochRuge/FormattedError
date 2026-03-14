@@ -16,3 +16,4 @@ C:\UDV\mini-projects\FormattedError\obj\Debug\net10.0\refint\FormattedError.dll
 C:\UDV\mini-projects\FormattedError\obj\Debug\net10.0\FormattedError.pdb
 C:\UDV\mini-projects\FormattedError\obj\Debug\net10.0\FormattedError.genruntimeconfig.cache
 C:\UDV\mini-projects\FormattedError\obj\Debug\net10.0\ref\FormattedError.dll
+C:\UDV\mini-projects\FormattedError\obj\Debug\net10.0\FormattedError.sourcelink.json
